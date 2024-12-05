@@ -2,6 +2,9 @@
 
 This project dynamically generates and displays images with sequential numbers from `001` to `999`. The images are loaded from the Flaticon CDN.
 
+
+### TO USE ANY LOGO, right click on the page and select element selector on the top and copy your desire Logo. Now use any logo cdn link for your project.
+
 ## Features
 
 - Displays all images from a specified URL range.
@@ -9,6 +12,10 @@ This project dynamically generates and displays images with sequential numbers f
 - Handles broken images gracefully by hiding them.
 
 ## Live Demo
+
+preview - 
+![Desktop View](LogoPage.png)
+*Full desktop interface*
 
 [View the live demo here](https://your-live-link.com)
 
