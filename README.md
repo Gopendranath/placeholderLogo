@@ -17,7 +17,7 @@ preview -
 ![Desktop View](LogoPage.png)
 *Full desktop interface*
 
-[View the live demo here](https://your-live-link.com)
+[View the live demo here](https://gopendranath.github.io/placeholderLogo/)
 
 ## How It Works
 
