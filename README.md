@@ -35,7 +35,7 @@ preview -
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/dynamic-image-viewer.git
+    git clone https://github.com/Gopendranath/dynamic-image-viewer.git
     ```
 2. Open the `index.html` file in your browser to view the images.
 
